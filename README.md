@@ -2,8 +2,8 @@
 Master SQL, the core language for Big Data analysis and enable insight-driven decision-making and strategy for business.
 
 ## Certificate of Completion
+![download.pdf](https://github.com/codeddamian/Data-Analyst/files/8365295/download.pdf)
 
-[cert.png.pdf](https://github.com/codeddamian/Data-Analyst/files/8365218/cert.png.pdf)
 
 ### Part 1 - Introduction to SQL
 
