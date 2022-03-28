@@ -3,7 +3,7 @@ Master SQL, the core language for Big Data analysis and enable insight-driven de
 
 ## Certificate of Completion
 
-![Certificate](https://github.com/codeddamian/Data-Analyst/blob/a322a6ad0ffc956fa6a9008ec7e7191a1def6839/certificate.03.pdf)
+[cert.png.pdf](https://github.com/codeddamian/Data-Analyst/files/8365218/cert.png.pdf)
 
 ### Part 1 - Introduction to SQL
 
